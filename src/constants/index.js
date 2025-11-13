@@ -101,7 +101,7 @@ import {
   
   const experiences = [
     {
-      title: "Senior Developer",
+      title: "Software Developer",
       company_name: "weQRed (Remote, Indore)",
       icon: "https://img.icons8.com/fluency/344/restaurant.png",
       iconBg: "#383E56",

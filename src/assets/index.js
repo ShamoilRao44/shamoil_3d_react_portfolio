@@ -1,5 +1,5 @@
 import logo from "./arr.svg";
-import aarti from "./photo1.jpg";
+import shamoil from "./photo1.jpg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -68,7 +68,7 @@ export {
   clg,
   school,
   crypto,
-  aarti,
+  shamoil,
   oop,crud,dwld,onetomany,yml,
   trie,ds,cg,
   port_3d, jsp, chitchat, notes, react1,

@@ -72,43 +72,6 @@ const Contact = () => {
     }
   };
 
-  // const handleSubmit = (e) => {
-  //   e.preventDefault();
-  //   setLoading(true);
-
-  //   emailjs
-  //     .send(
-  //       'service_6y5vft7',
-  //       'template_5g175sf',
-  //       {
-  //         from_name: form.name,
-  //         to_name: "Aarti Rathi",
-  //         from_email: form.email,
-  //         to_email: "aarti.rathi1710@gmail.com",
-  //         message: form.message,
-  //       },
-  //       'FMQ4a1hK5NSAkumfj',
-  //     )
-  //     .then(
-  //       () => {
-  //         setLoading(false);
-  //         alert("Thank you. I will get back to you as soon as possible.");
-
-  //         setForm({
-  //           name: "",
-  //           email: "",
-  //           message: "",
-  //         });
-  //       },
-  //       (error) => {
-  //         setLoading(false);
-  //         console.error(error);
-
-  //         alert("Ahh, something went wrong. Please try again.");
-  //       }
-  //     );
-  // };
-
   return (
     <div
       className={`xl:mt-12 flex gap-2 overflow-hidden contact`}

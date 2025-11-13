@@ -5,7 +5,7 @@ import { init } from "ityped";
 import React, { useEffect, useRef } from "react";
 import { AiOutlineGithub } from "react-icons/ai";
 import { ImLinkedin } from "react-icons/im";
-import { aarti } from "../assets";
+import { shamoil } from "../assets";
 import "./Hero.scss";
 
 const Hero = () => {
@@ -65,7 +65,7 @@ const Hero = () => {
         </div>
 
         <div className="imgcontainer1 absolute violet-gradient">
-          <img src={aarti} alt="" className="object-contain" />
+          <img src={shamoil} alt="" className="object-contain" />
         </div>
       </div>
 
